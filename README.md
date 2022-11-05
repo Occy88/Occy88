@@ -8,7 +8,7 @@ Submitted **358** pull requests
 
 Reviewed **125** pull requests
 
-Received **14** stars
+Received **13** stars
 
 Own **54** repositories
 

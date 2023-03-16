@@ -12,5 +12,5 @@ Received **14** stars
 
 Own **56** repositories
 
-Contributed to **17** public repositories
+Contributed to **16** public repositories
 
